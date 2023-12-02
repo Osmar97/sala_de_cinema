@@ -1,0 +1,8 @@
+SEJA BEM VINDO AO GUIA DO NOSSO SISTEMA
+
+1- Todas as opções disponiveis são declaradas pelos números correspondentes.
+2_ Escolha primeiramente se você é uma utilizador ou um administrador.
+3- Em relação ao administrador será necessário o Pin de acesso as opções.
+4- Em relação ao utilizador caso ainda não seja registrador será necessário um cadastro com seu nome, NIF e senha de acesso.
+5- Se deseja vê os eventos disponiveis utiliza a opção relacionada a visualizar os eventos disponiveis.
+6- É sempre possivel verificar os lugares disponiveis e na opção de vê sala do evento.
